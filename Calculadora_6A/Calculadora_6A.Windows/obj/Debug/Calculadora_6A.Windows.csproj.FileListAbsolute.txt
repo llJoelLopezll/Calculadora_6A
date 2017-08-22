@@ -1,0 +1,11 @@
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Windows\bin\Debug\Calculadora_6A.Windows.exe.config
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Windows\bin\Debug\Calculadora_6A.Windows.exe
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Windows\bin\Debug\Calculadora_6A.Windows.pdb
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Windows\bin\Debug\Calculadora_6A.Libreria.dll
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Windows\bin\Debug\Calculadora_6A.Libreria.pdb
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Windows\obj\Debug\Calculadora_6A.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Windows\obj\Debug\Calculadora_6A.Windows.Form1.resources
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Windows\obj\Debug\Calculadora_6A.Windows.Properties.Resources.resources
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Windows\obj\Debug\Calculadora_6A.Windows.csproj.GenerateResource.Cache
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Windows\obj\Debug\Calculadora_6A.Windows.exe
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Windows\obj\Debug\Calculadora_6A.Windows.pdb

@@ -1,0 +1,10 @@
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Libreria\bin\Debug\Calculadora_6A.Libreria.dll
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Libreria\bin\Debug\Calculadora_6A.Libreria.pdb
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Libreria\obj\Debug\Calculadora_6A.Libreria.dll
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Libreria\obj\Debug\Calculadora_6A.Libreria.pdb
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\JoelLopez\Calculadora_6A\Calculadora_6A.Libreria\obj\Debug\Calculadora_6A.Libreria.csprojResolveAssemblyReference.cache
+G:\JoelLopez\Calculadora_6A\Calculadora_6A.Libreria\bin\Debug\Calculadora_6A.Libreria.dll
+G:\JoelLopez\Calculadora_6A\Calculadora_6A.Libreria\bin\Debug\Calculadora_6A.Libreria.pdb
+G:\JoelLopez\Calculadora_6A\Calculadora_6A.Libreria\obj\Debug\Calculadora_6A.Libreria.csprojResolveAssemblyReference.cache
+G:\JoelLopez\Calculadora_6A\Calculadora_6A.Libreria\obj\Debug\Calculadora_6A.Libreria.dll
+G:\JoelLopez\Calculadora_6A\Calculadora_6A.Libreria\obj\Debug\Calculadora_6A.Libreria.pdb
